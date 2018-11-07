@@ -1,2 +1,2 @@
 echo "hello from this script"
-echo "another hello"
+echo "another hello!"
